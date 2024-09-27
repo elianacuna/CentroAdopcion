@@ -1,0 +1,12 @@
+rear una Base de Datos que contenga al menos 2 tablas  propietario y mascota
+Crear una Aplicación Web que permita hacer un Crud para propietario y que este puede elegir de todas las mascotas que esten disponibles para adoptarla
+Se debe de poder mostrar la informacion de las mascotas
+Se debe de poder mostrar la informacion del propietario y la mascota que adopto.
+utilice los verbos POST para guardar la informacion y el GET para mostrar la informacion
+puede utilizar como lenguajes PHP y .NET y como base de Datos SQL Server o MySql
+
+Debe de entregar
+
+el script de la base de datos
+una carpeta con la aplicaciones
+un Word con evidencia o capturas de pantalla del funcionamiento y de los scripts.

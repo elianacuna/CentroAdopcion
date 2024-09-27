@@ -1,0 +1,18 @@
+body{
+background-color: #FAFAFA;
+}
+
+.cardview{
+    background-color: #FFFFFF;
+}
+
+.was-validated input:invalid {
+    border-color: red;
+}
+.was-validated input:valid {
+    border-color: green;
+}
+#alertError {
+    display: none;
+    color: red;
+}
